@@ -83,4 +83,4 @@ do
 
 
 done
-echo Better luck next time!
+echo -e "Better luck next time! The code was:\n${CODE}"
